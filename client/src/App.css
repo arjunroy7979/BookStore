@@ -1,0 +1,21 @@
+.text-sm {
+    font-size: 0.8rem !important;
+    font-weight: 500;
+}
+
+.fa-cart-plus {
+    position: relative !important;
+    left: 92%;
+    top: -7rem;
+}
+
+.fa-shopping-cart {
+    text-decoration: none;
+    color: black;
+}
+
+.pop-up {
+    position: fixed;
+    top: 15%;
+    left: 23%;
+}
